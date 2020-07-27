@@ -13,7 +13,7 @@ set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 set backspace=indent,eol,start
 cd c:/users/colin/vimcpp
-inoremap { {<CR>}<Esc>ko
+inoremap {<CR> {<CR>}<Esc>ko
 set noerrorbells
 set guifont=consolas:h18
 colo pablo
