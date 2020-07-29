@@ -15,5 +15,5 @@ set backspace=indent,eol,start
 cd c:/users/colin/vimcpp
 inoremap {<CR> {<CR>}<Esc>ko
 set noerrorbells
-set guifont=consolas:h18
+set guifont=consolas:h12
 colo pablo
